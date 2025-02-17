@@ -177,13 +177,6 @@ val countryCodes = mapOf("US" to "United States", "NP" to "Nepal")
 println(countryCodes["NP"])  // Output: Nepal
 ```
 
----
-
-## Basic Exercises
-1. **Write a program to check if a number is even or odd.**
-2. **Write a function to find the factorial of a number.**
-3. **Create a class `Car` with properties like `brand` and `model`, and a function to display details.**
-4. **Write a program to reverse a string.**
 
 ---
 
